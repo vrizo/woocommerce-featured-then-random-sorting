@@ -6,9 +6,9 @@ This is a small plugin for Wordpress which adds extra product sorting option: Fe
 
 Maintained by [me](https://www.upwork.com/freelancers/~019842b9db9697a094).
 
-It works perfectly with WooCommerce >2.3.
+It works perfectly with WooCommerce v. 2.3 and newer.
 
-It is available in English :en: and Russian :ru:.
+It is available in English :gb:/:us: and Russian :ru:.
 
 ## Wordpress Plugin Directory
 * Not yet
@@ -18,13 +18,16 @@ It is available in English :en: and Russian :ru:.
 2. Activate it.
 3. New sorting option will be available on all your store pages.
 
-Also you can customize the plguin:
-1. Go to Dashboard &rarr; WooCommerce &rarr; Settings &rarr; Items &rarr; Display
+Also you can customize the plugin:<br>
+1. Go to Dashboard &rarr; WooCommerce &rarr; Settings &rarr; Items &rarr; Display<br>
 2. Here you can choose default sorting option, default sorting label and Featured First then Random custom label.
 
 ## Features
 * This plugin uses Session seed (unique session id) to randomize item order so you can use random product list even with pagination!
 * It is automatically reset when user opens the first page.
+
+## Demo
+* Demo web-site is available [here](http://toryjoy.ru/shop/?orderby=featured_first_then_random).
 
 
 ## Having any troubles or ideas?
