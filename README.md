@@ -1,6 +1,6 @@
 # Featured First then Random sorting for WooCommerce
 
-<img src="/assets/banner-1544x500.png" align="center" height="500" width="1544" alt="Featured First then Random sorting for WooCommerce Logo" >
+<img src="/assets/banner-772x250.png" align="center" height="250" width="772" alt="Featured First then Random sorting for WooCommerce Logo" >
 
 This is a small plugin for Wordpress which adds extra product sorting option: Featured First then Random. It can be very useful for stores with a large amount automatically imported items, e.g., from AliExpress. 
 
